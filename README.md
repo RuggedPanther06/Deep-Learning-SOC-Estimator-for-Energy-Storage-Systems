@@ -1,4 +1,5 @@
 Deep-Learning SOC Estimator for Energy Storage Systems
+
 The Business Problem 
 
 Inaccurate battery State of Charge (SOC) estimation forces energy providers and EV manufacturers to "over-provision" battery capacity to ensure safety, leading to millions in wasted Capital Expenditure (CapEx). Furthermore, extreme thermal conditions degrade battery performance unpredictably. This project solves this by using deep learning to accurately predict SOC in real-time, enabling leaner battery packs, extended hardware lifespan, and highly reliable edge-grid backups.
