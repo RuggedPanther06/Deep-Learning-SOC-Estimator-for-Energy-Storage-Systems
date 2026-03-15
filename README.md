@@ -18,7 +18,5 @@ The model achieved highly robust performance on completely unseen test cycles:
 Overall Test RMSE: 0.7933%
 Overall Test MAE: 0.5539%
 
-
-
 Tech Stack
 Python, PyTorch, Pandas, NumPy, Scikit-Learn, Matplotlib
