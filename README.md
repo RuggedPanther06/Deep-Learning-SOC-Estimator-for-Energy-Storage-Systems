@@ -21,5 +21,6 @@ Overall Test MAE: 0.5539%
 
 ![SOC Estimation Graph](results.png)
 
-Tech Stack
+Tech Stack:
+
 Python, PyTorch, Pandas, NumPy, Scikit-Learn, Matplotlib
